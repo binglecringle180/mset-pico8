@@ -1,2 +1,4 @@
 # msetp8.github.io
-The quick brown fox jumps over the lazy dog.
+the Mandelbrot set rendered on PICO-8
+arrow keys to pan
+z/x to zoom in/out
