@@ -1,5 +1,5 @@
 # [mset-pico8](https://binglecringle180.github.io/mset-pico8/)
-![label](https://yeetyourfiles.lol/download/87d74c43-c1e5-458a-b4cd-10b5cfc30e45 "label")\
+![label](https://yeetyourfiles.lol/download/9112f99b-8124-4947-b596-acbef5e8e2db "label")\
 visualization of the Mandelbrot set rendered on PICO-8\
 arrow keys to pan\
 z/x to zoom in/out\
